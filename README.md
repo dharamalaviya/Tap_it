@@ -1,6 +1,6 @@
 ## Tap_it
 #### Create the game using Tap Gesture and User Default
-### Implemented UIElements
+### Implemented Elements
 * UIView
 * UILabel
 * UIButton
